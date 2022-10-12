@@ -6,7 +6,10 @@ package sandproject;
 
 /**
  *
- * @author Hp EliteBook
+ * @author Kevin  Sibaja Granados 
+ * @author Diego Herrera Lopez
+ * @author Yordany Navarro Hernadez
+ * @author Jefferson Zapata Ortega
  */
 public class Main {
 
